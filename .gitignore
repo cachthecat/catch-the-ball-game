@@ -1,0 +1,15 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File di Node.js
+node_modules/
+package-lock.json
+
+# File Python
+__pycache__/
+*.pyc
+
+# File temporanei
+*.log
+*.tmp

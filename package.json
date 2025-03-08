@@ -1,0 +1,13 @@
+{
+  "name": "catch-the-ball-game",
+  "version": "1.0.0",
+  "description": "Un divertente gioco dove devi prendere la pallina in movimento",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "serve-static": "^1.15.0"
+  }
+}
